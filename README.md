@@ -1,7 +1,7 @@
 # 👋 Hey There!
 
 I'm **Varsha Chandak**, a passionate Computer Science student and coder skilled in full-stack development and UI/UX design.  
-I love building clean, user-friendly applications and solving problems with efficient, elegant code. Always eager to learn, grow, and create impactful projects! 🚀
+I love building clean, user-friendly applications and solving problems with efficient, elegant code. Always eager to learn, grow, and create impactful projects! 
 
 ---
 
